@@ -35,3 +35,7 @@ img {
 .ariana p {
     margin: 0 40px 0 0;
 }
+
+td, th {
+    border: 1px solid palevioletred;
+}
