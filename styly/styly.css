@@ -1,0 +1,9 @@
+.banner {
+    padding: 2em;
+    background: palevioletred;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
