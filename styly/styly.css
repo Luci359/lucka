@@ -9,7 +9,8 @@
 }
 
 body {
-    margin:0 auto
+    margin:0 auto;
+
 }
 
 
@@ -19,10 +20,12 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    font-family: 'Hina Mincho', serif;
 }
 
 img {
     width: 550px;
+    margin: 10px;
 }
 
 .vpravo {
