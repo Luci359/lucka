@@ -47,3 +47,20 @@ td, th {
     text-align: left;
 }
 
+
+ 
+
+
+@media only screen and (max-width: 400px) {
+    .ariana {
+      display: flex;
+      justify-content: space-evenly;
+      flex-direction: column;
+     
+    }
+  }
+
+  .flex-container {
+    display: flex;
+  }
+
