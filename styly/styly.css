@@ -29,10 +29,9 @@ img {
 }
 
 .vpravo {
-    text-align: right;
+    float: right;
 }
 .ariana {
-    display: flex;
     justify-content: space-evenly;
     flex-direction: column;
     align-items: flex-start;
@@ -97,6 +96,3 @@ td, th {
     width: 865px;
 }
 
-.ariana {
-    
-}
