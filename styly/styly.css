@@ -33,7 +33,8 @@ img {
 }
 .ariana {
     display: flex;
-    align-items: flex-start;
+    justify-content: space-evenly;
+    flex-direction: column;
 }
 .ariana p {
     margin: 0 40px 0 0;
@@ -50,15 +51,15 @@ td, th {
  
 
 
-@media only screen and (max-width: 400px) {
+@media(min-width: 400px) {
     .ariana {
-      display: flex;
-      justify-content: space-evenly;
-      flex-direction: column;
-     
+
+        align-items: flex-start;
+        flex-direction: row;
     }
   }
 
+ 
   .flex-container {
     display: flex;
   }
