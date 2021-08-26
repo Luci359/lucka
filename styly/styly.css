@@ -87,4 +87,13 @@ td, th {
 
 .ariana {
     align-items: flex-end;
+
+.bannerdole {
+    padding: 200px;
+    background: gray;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row-reverse;
+    align-items: center;
+    width: 865px;
 }
