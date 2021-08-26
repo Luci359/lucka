@@ -34,6 +34,7 @@ img {
 .ariana {
     display: flex;
     align-items: flex-start;
+    font-size: 20px;
 }
 .ariana p {
     margin: 0 40px 0 0;
@@ -43,9 +44,7 @@ td, th {
     border: 1px solid palevioletred;
 }
 
-.vlevo {
-    text-align: left;
-}
+
 
  
 
