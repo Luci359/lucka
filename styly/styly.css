@@ -47,7 +47,6 @@ td, th {
     text-align: left;
 }
 
-
  
 
 
@@ -63,4 +62,21 @@ td, th {
   .flex-container {
     display: flex;
   }
+
+
+.obrazky img {
+    width: 300px;
+    height: 300px;
+   margin: 0;
+    border-radius: 15px;
+}
+.obrazky {
+    display: flex;
+    flex-direction: row;
+}
+.obrazkyitem { 
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+}
 
