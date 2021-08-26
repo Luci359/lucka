@@ -89,14 +89,10 @@ td, th {
 
 .bannerdole {
     padding: 200px;
-    background: gray;
+    background: rgb(73, 72, 72);
     display: flex;
     justify-content: flex-end;
     flex-direction: row-reverse;
     align-items: center;
     width: 865px;
-}
-
-.ariana {
-    
 }
