@@ -42,3 +42,8 @@ img {
 td, th {
     border: 1px solid palevioletred;
 }
+
+.vlevo {
+    text-align: left;
+}
+
