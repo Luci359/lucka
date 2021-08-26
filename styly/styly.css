@@ -88,3 +88,12 @@ td, th {
 .stin img {
     width: 300px;
 }
+.bannerdole {
+    padding: 200px;
+    background: gray;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row-reverse;
+    align-items: center;
+    width: 865px;
+}
